@@ -2,18 +2,18 @@
 
 {} /* Background */
 .app {
-    background-image: url("https://i.imgur.com/w7UVsOs.jpg");
+    background-image: url("http://wallpapercave.com/wp/wp1864372.png");
     background-size: cover !important;
     background-position: center;
 }
 .callout-backdrop {
     opacity:1 !important;
-    background: url("https://i.imgur.com/eeDIMtw.jpg");
+    background: url("http://i.imgur.com/ZfZvNjD.jpg");
     background-size: cover;
     background-position: center;
 }
 .bda-backdrop {
-    background: url("https://i.imgur.com/NUhSyNd.jpg");
+    background: url("http://wallpapercave.com/wp/wp1864352.jpg");
     background-size: cover;
 }
 .layers,
