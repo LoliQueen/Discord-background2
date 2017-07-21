@@ -9,6 +9,7 @@
 .callout-backdrop {
     opacity:1 !important;
     background: url("http://i.imgur.com/ZfZvNjD.jpg");
+    
     background-size: cover;
     background-position: center;
 }
